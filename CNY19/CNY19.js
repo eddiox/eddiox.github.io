@@ -3704,7 +3704,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"https://eddiox.github.io/CNY19/sounds/CNY_19_Sound.mp3", id:"CNY_19_Sound"}
+		{src:"https://eddiox.github.io/CNY19/sounds/CNY_19_Sound.mp3", id:"CNY_19_Sound"},
 		{src:"https://eddiox.github.io/CNY19/images/BVLogo_Colour01.png", id:"BVLogo_Colour01"},
 		{src:"https://eddiox.github.io/CNY19/images/CNY19_atlas_.png", id:"CNY19_atlas_"},
 		{src:"https://eddiox.github.io/CNY19/images/CNY19_atlas_2.png", id:"CNY19_atlas_2"},
@@ -3714,7 +3714,7 @@ lib.properties = {
 		{src:"https://eddiox.github.io/CNY19/images/CNY19_atlas_6.png", id:"CNY19_atlas_6"},
 		{src:"https://eddiox.github.io/CNY19/images/CNY19_atlas_7.png", id:"CNY19_atlas_7"},
 		{src:"https://eddiox.github.io/CNY19/images/CNY19_atlas_8.png", id:"CNY19_atlas_8"},
-		{src:"https://eddiox.github.io/CNY19/images/CNY19_atlas_9.png", id:"CNY19_atlas_9"},
+		{src:"https://eddiox.github.io/CNY19/images/CNY19_atlas_9.png", id:"CNY19_atlas_9"}
 	],
 	preloads: []
 };
