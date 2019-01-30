@@ -3714,7 +3714,7 @@ lib.properties = {
 		{src:"https://eddiox.github.io/CNY19/images/CNY19_atlas_6.png", id:"CNY19_atlas_6"},
 		{src:"https://eddiox.github.io/CNY19/images/CNY19_atlas_7.png", id:"CNY19_atlas_7"},
 		{src:"https://eddiox.github.io/CNY19/images/CNY19_atlas_8.png", id:"CNY19_atlas_8"},
-		{src:"https://eddiox.github.io/CNY19/images/CNY19_atlas_9.png", id:"CNY19_atlas_9"}
+		{src:"https://eddiox.github.io/CNY19/images/CNY19_atlas_9.png", id:"CNY19_atlas_9"},
 	],
 	preloads: []
 };
